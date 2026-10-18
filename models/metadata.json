@@ -1,0 +1,15 @@
+{
+  "best_model": "XGBoost Regressor",
+  "best_rmse_mw": 3.3635041182186436,
+  "best_r2": 0.9609969015273029,
+  "best_mae_mw": 2.5179850407105127,
+  "best_mape_percent": 0.5554380421753239,
+  "features": [
+    "AT",
+    "V",
+    "AP",
+    "RH"
+  ],
+  "n_samples": 9568,
+  "timestamp": "2026-10-18 23:39:42"
+}
